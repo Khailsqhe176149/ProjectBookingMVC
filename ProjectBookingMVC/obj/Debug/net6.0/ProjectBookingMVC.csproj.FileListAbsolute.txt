@@ -1,0 +1,188 @@
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.csproj.AssemblyReference.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.AssemblyInfoInputs.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.AssemblyInfo.cs
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.csproj.CoreCompileInputs.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.RazorAssemblyInfo.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.RazorAssemblyInfo.cs
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\appsettings.json
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.staticwebassets.runtime.json
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.exe
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.deps.json
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.runtimeconfig.json
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.pdb
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Azure.Core.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Azure.Identity.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Humanizer.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.CodeDom.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Text.Json.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Learn\VS\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.ProjectBookingMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectBookingMVC.props
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectBookingMVC.props
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectBookingMVC.props
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\bundle\ProjectBookingMVC.styles.css
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\projectbundle\ProjectBookingMVC.bundle.scp.css
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.csproj.CopyComplete
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.dll
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\refint\ProjectBookingMVC.dll
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.pdb
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.genruntimeconfig.cache
+E:\Learn\VS\ProjectBookingMVC\obj\Debug\net6.0\ref\ProjectBookingMVC.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\appsettings.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.staticwebassets.runtime.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.exe
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.deps.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.runtimeconfig.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\ProjectBookingMVC.pdb
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Azure.Core.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Humanizer.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.csproj.AssemblyReference.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.AssemblyInfoInputs.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.AssemblyInfo.cs
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.csproj.CoreCompileInputs.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.RazorAssemblyInfo.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.RazorAssemblyInfo.cs
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.ProjectBookingMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectBookingMVC.props
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectBookingMVC.props
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectBookingMVC.props
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\bundle\ProjectBookingMVC.styles.css
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\scopedcss\projectbundle\ProjectBookingMVC.bundle.scp.css
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectB.B600B81B.Up2Date
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\refint\ProjectBookingMVC.dll
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.pdb
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ProjectBookingMVC.genruntimeconfig.cache
+D:\ổ e\1_PRN211 (1)\ProjectBookingMVC\ProjectBookingMVC\obj\Debug\net6.0\ref\ProjectBookingMVC.dll

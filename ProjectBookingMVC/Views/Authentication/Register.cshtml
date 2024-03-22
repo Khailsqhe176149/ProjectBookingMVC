@@ -1,0 +1,29 @@
+﻿<div class="container" style="padding:25vh 25vw">
+    <form asp-action="Register" method="post">
+
+        <div class="mb-3">
+            <label class="form-label">Email address</label>
+            <input type="email" class="form-control" name="Username">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <input type="password" name="Password" required class="form-control">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <input type="password" name="ConfirmPassword" required class="form-control">
+        </div>
+        @{
+            if (@ViewBag.Msg != null)
+            {
+                <div class="mb-3">
+                    <h3 class="text-danger">@ViewBag.Msg</h3>
+                </div>
+            }
+        }
+
+        <button type="submit" class="btn btn-primary">Register</button>
+
+    </form>
+</div>

@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container">
+    
+
+ 
+    @{
+        if (ViewBag.reservations == null)
+        {
+            <div class="container" style="padding:20vh;text-decoration-color:red">
+                <h1>You do not have any rooms</h1>
+            </div>
+        }
+        else
+        {
+            <div style="display : flex ; justify-content:center   ; margin-top :5vh">
+            <h2 style="color:burlywood">Your Reservation</h2>
+            </div>
+
+            foreach (var re in ViewBag.reservations)
+            {
+                <div style="display : flex ;padding : 10vh 0; justify-content:space-evenly">
+                    <img src="~/img/room/@re.Room.Image" alt="" width="370px" />
+                    <div style="display:flex; flex-direction:column ; justify-content:space-between">
+                        <h4>@re.Room.Name</h4>
+                        <h4>@re.Room.Price$<span>  /Pernight</span></h4>
+                        <div>Check-in : @re.CheckIn</div>
+                        <div>Check-out :@re.CheckOut</div>
+                        <h3>Price you must pay <span> @re.TotalPrice</span>$</h3>
+                        <button onclick="cancel(@re.Id)">  Cancel  </button>
+                    </div>
+                </div>
+
+
+            }
+        }
+
+    }
+    @{
+
+    }
+</div>
+<script>
+    function cancel(id){
+        var c = confirm("Do you want to cancel this room " );
+        if(c){
+            window.location = "/Reservation/Cancel?id=" +id ; 
+        }
+    }
+</script>

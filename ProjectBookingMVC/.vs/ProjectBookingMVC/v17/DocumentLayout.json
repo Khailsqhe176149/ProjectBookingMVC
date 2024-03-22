@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\repository\\repuser\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\repuser\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\repository\\repuser\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\repuser\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\repuser\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\repuser\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\reservation\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\reservation\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\represervation\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\represervation\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\represervation\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\represervation\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\represervation\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\represervation\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\reproom\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\reproom\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\reproom\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\reproom\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\room\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\room\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\repository\\reproom\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:repository\\reproom\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|d:\\\u1ED5 e\\1_prn211 (1)\\projectbookingmvc\\projectbookingmvc\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\views\\room\\roomdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:views\\room\\roomdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E2415B-74E4-477B-8D62-F88FA13ED1EF}|ProjectBookingMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:16:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepUser\\UserRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\RepUser\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:57:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\UserDAO.cs",
+              "RelativeDocumentMoniker": "Repository\\RepUser\\UserDAO.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\UserDAO.cs",
+              "RelativeToolTip": "Repository\\RepUser\\UserDAO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:57:31.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:41:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAewDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:22:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:22:58.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAGwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T03:16:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyReservation.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Reservation\\MyReservation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservation\\MyReservation.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Reservation\\MyReservation.cshtml",
+              "RelativeToolTip": "Views\\Reservation\\MyReservation.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:12.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepUser\\IUserRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepUser\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\RepUser\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:48:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepReservation\\IReservationRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\IReservationRepository.cs",
+              "RelativeToolTip": "Repository\\RepReservation\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:48:18.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationDAO.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\ReservationDAO.cs",
+              "RelativeDocumentMoniker": "Repository\\RepReservation\\ReservationDAO.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\ReservationDAO.cs",
+              "RelativeToolTip": "Repository\\RepReservation\\ReservationDAO.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:48:23.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepReservation\\ReservationRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepReservation\\ReservationRepository.cs",
+              "RelativeToolTip": "Repository\\RepReservation\\ReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:49:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "Repository\\RepRoom\\RoomDAO.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\RoomDAO.cs",
+              "RelativeToolTip": "Repository\\RepRoom\\RoomDAO.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:22:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T03:44:52.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Details.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T03:44:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T03:44:59.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T03:28:48.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\DTO\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ReservationDTO.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\DTO\\ReservationDTO.cs",
+              "RelativeToolTip": "DTO\\ReservationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:33:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepRoom\\IRoomRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\IRoomRepository.cs",
+              "RelativeToolTip": "Repository\\RepRoom\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:47:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:41:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Room.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Room\\Room.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\Room.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Room\\Room.cshtml",
+              "RelativeToolTip": "Views\\Room\\Room.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:15.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RepRoom\\RoomRepository.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Repository\\RepRoom\\RoomRepository.cs",
+              "RelativeToolTip": "Repository\\RepRoom\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:47:00.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:09:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:29:13.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:38:08.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:38:14.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:40.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoomDetail.cshtml",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Room\\RoomDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Room\\RoomDetail.cshtml",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\Views\\Room\\RoomDetail.cshtml",
+              "RelativeToolTip": "Views\\Room\\RoomDetail.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:23.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\\u1ED5 e\\1_PRN211 (1)\\ProjectBookingMVC\\ProjectBookingMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T20:23:26.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
